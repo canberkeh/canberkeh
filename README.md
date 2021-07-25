@@ -3,7 +3,7 @@ Python - Django - Flask
 
 <h2>🏆 Github Profile Trophy</h2>
 ---
-<img src=https://github-profile-trophy.vercel.app/?username=canberkeh&theme=dracula />
+<img src=https://github-profile-trophy.vercel.app/?username=canberkeh&column=8&theme=gruvbox />
 ---
 
 <div>
