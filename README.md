@@ -11,4 +11,4 @@
 
 ### Connect with me:  https://linktr.ee/canberkeh
 
-- ⚡ Fun fact: In love with Muay Thai, Riding motocycle, newb dj, ex latin dancer
+- ⚡ Fun fact: In love with Muay Thai, riding motocycle, newb dj, ex latin dancer
