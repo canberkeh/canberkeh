@@ -13,4 +13,4 @@
 ![yourqrcode](https://user-images.githubusercontent.com/73230039/133150727-4f9f25b8-85e0-4cd7-a6a7-578338f884a6.png)
 
 
-- ⚡ Fun fact: In love with Muay Thai, riding motocycle, newb dj, ex latin dancer
+- ⚡ Fun fact: In love with Muay Thai, riding motocycle, newb dj, ex latin dancer, motogp & wsbk & f1 fan.
