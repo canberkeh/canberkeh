@@ -1,8 +1,3 @@
-[![Twitter Follow](https://img.shields.io/twitter/follow/canberkeh?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fcanberkeh&screen_name=canberkeh)
-
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /><img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" /><img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" /><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /><img src="https://img.shields.io/badge/CSS-239120?style=for-the-badge&logo=css3&logoColor=white" /><img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" /><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/><img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" /><img src="https://img.shields.io/badge/rabbitmq-%23FF6600.svg?&style=for-the-badge&logo=rabbitmq&logoColor=white"/><img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white"/><img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=Selenium&logoColor=white"/> 
-
-
 <h2>🏆 Github Profile Trophy</h2>
 <img src="https://github-profile-trophy.vercel.app/?username=canberkeh&column=8&theme=gruvbox"/>
 <div>
@@ -10,7 +5,5 @@
 </div>
 
 ### Connect with me:  https://linktr.ee/canberkeh ||
-![yourqrcode](https://user-images.githubusercontent.com/73230039/133150727-4f9f25b8-85e0-4cd7-a6a7-578338f884a6.png)
 
-
-- ⚡ Fun fact: In love with Muay Thai, riding motocycle, newb dj, ex latin dancer, motogp & wsbk & f1 fan.
+- ⚡ Fun fact: In love with Muay Thai, riding motocycle, newb dj, ex latin dancer, motogp & wsbk & f1 fan, sim & kart racer
